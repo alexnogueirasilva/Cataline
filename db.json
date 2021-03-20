@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Lavar Roupa",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "Lavar o Carro",
+      "done": true
+    },
+    {
+      "id": 3,
+      "text": "Lavar a Louça",
+      "done": true
+    },
+    {
+      "id": 4,
+      "text": "Lavar a casa",
+      "done": true
+    },
+    {
+      "id": 5,
+      "text": "Lavar bike",
+      "done": false
+    },
+    {
+      "id": 6,
+      "text": "Lavar piscina",
+      "done": true
+    }
+  ]
+}
+
